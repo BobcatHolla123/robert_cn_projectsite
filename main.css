@@ -1,0 +1,81 @@
+.m_a{
+    text-align: center;
+    font-family: 'Frijole', cursive;
+    font-size: 15px;
+    
+}
+
+.top_bar{
+    background-color: teal;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding:1px;
+    border:3px solid black;
+    background-color: teal;
+}
+
+.u1_o1_nav{
+    text-align: center;
+    background-color: teal;
+}
+
+.about_me, .u1o1, .u1o2, .u1o3, .u2o1{
+    color: white;
+    background-color: teal;
+}
+
+.num_1, .num_2, .num_3, .num_4{
+    color: white;
+    background-color: teal;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Piedra', cursive;
+    background-color: teal;
+    color:white;
+    font-size: 50px;
+}
+
+
+.quote{
+    text-align: center;
+    font-style: italic;
+}
+
+h3, h4{
+    text-decoration: underline;
+}
+
+h2{
+    background-color: teal;
+}
+
+
+.photo_me{
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding:1px;
+    border:3px solid lightgray;
+    background-color: lightgray;
+}
+
+
+
+
+.under_me_pic{
+    text-align: center;
+    font-style: italic;
+}
+
+.riskchart{
+    float: left;
+}
+
+.risk_text{
+    float: left;
+}
